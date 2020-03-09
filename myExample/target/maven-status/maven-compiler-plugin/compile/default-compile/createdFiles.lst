@@ -1,0 +1,5 @@
+com\example\demo\config\StudConfig.class
+com\example\demo\model\Student.class
+com\example\demo\config\studInitialize.class
+com\example\demo\dao\StudentDAO.class
+com\example\demo\controller\StudentController.class
